@@ -53,10 +53,11 @@ ul.profiles a:hover {
 
 }
 .mine {
-  text-align: center;
+  text-align: right;
   font-weight: bold;
   text-decoration: none;
   color: #e1306c;
 }
 .mine a:hover {
   text-decoration: underline;
+
