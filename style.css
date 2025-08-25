@@ -50,4 +50,13 @@ ul.profiles a {
 
 ul.profiles a:hover {
   color: #ffffff;
+
 }
+.mine {
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  color: #e1306c;
+}
+.mine a:hover {
+  text-decoration: underline;
